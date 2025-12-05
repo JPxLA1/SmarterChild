@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23972438/README.md)
 {\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
